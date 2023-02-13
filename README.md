@@ -13,7 +13,7 @@
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/data_analysis.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
-https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/data_analysis.ipynb
+
 ## Recently-Added Supplemental Material
 
 [Python Data Manipulation](https://github.com/nickmccarty/DS-Deloitte-02062023/blob/main/python_data_manipulation.ipynb)
