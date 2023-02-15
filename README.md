@@ -10,14 +10,14 @@
 ## Recently-Added Lecture Material
 
 [Pandas Data Cleaning](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/archived/pandas_data_cleaning.ipynb) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/pandas_data_cleaning.ipynb" target = "_parent">
+<!-- <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/pandas_data_cleaning.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
-</a>
+</a> -->
 
 [Aggregating and Combining DataFrames](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/archived/aggregating_combining_dataframes.ipynb) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/aggregating_combining_dataframes.ipynb" target = "_parent">
+<!-- <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/aggregating_combining_dataframes.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
-</a>
+</a> -->
 
 [Data Visualization with Matplotlib](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/archived/data_visualization.ipynb)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/data_visualization.ipynb" target = "_parent">
