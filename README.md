@@ -9,6 +9,11 @@
 
 ## Recently-Added Lecture Material
 
+[SQL Subqueries and Implementations](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/archived/SQL_Subqueries.ipynb) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/SQL_Subqueries.ipynb" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
 [SQL Joins and Aggregation](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/archived/sqljoinsandaggregation.ipynb) 🆕
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/sqljoinsandaggregation.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
