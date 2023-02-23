@@ -61,6 +61,11 @@
 
 ## Recently-Added Supplemental Material
 
+[ASA Statement on P-Values](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/The%20ASA%20Statement%20on%20p%20Values.pdf) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/The%20ASA%20Statement%20on%20p%20Values.pdf" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
 [Statistical Tests, P Values, Confidence Intervals & Power](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Statistical%20Tests%2C%20P%20Values%2C%20Confidence%20Intervals%20%26%20Power.pdf) 🆕
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Statistical%20Tests%2C%20P%20Values%2C%20Confidence%20Intervals%20%26%20Power.pdf" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
