@@ -15,12 +15,22 @@
 
 ## Recently-Added Lecture Material
 
-[T-Tests](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/T-Tests.ipynb) 🆕
+[Cloud Services](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/cloud_services.ipynb) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/cloud_services.ipynb" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[Intro to Big Data](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/big_data_intro.ipynb) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/big_data_intro.ipynb" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[T-Tests](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/T-Tests.ipynb)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/T-Tests.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-[Z-Tests](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/Z-Tests) 🆕
+[Z-Tests](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/Z-Tests)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/Z-Tests" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
