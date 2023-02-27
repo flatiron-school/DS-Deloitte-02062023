@@ -7,6 +7,12 @@
 
 # Welcome to Your AI Academy Course Repo!
 
+## Capstone-Relevant Resources
+
+* [Intensive Capstone Project Checklist and Rubric](https://nickmccarty.me/intensive-capstone-checklist-and-rubric)
+* [From Data to Viz](https://www.data-to-viz.com/)
+* [How to ask a good question](https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/)
+
 ## Recently-Added Lecture Material
 
 [T-Tests](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/T-Tests.ipynb) 🆕
