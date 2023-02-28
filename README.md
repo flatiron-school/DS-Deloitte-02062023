@@ -12,6 +12,7 @@
 * [Intensive Capstone Project Checklist and Rubric](https://nickmccarty.me/intensive-capstone-checklist-and-rubric)
 * [From Data to Viz](https://www.data-to-viz.com/)
 * [How to ask a good question](https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/)
+* [Schedule a Capstone Connect!](https://calendly.com/nick-mccarty/capstone-connect)
 
 ## Recently-Added Lecture Material
 
