@@ -7,21 +7,21 @@
 
 # Welcome to Your AI Academy Course Repo!
 
-## Capstone-Relevant Resources
-
-* [Intensive Capstone Project Checklist and Rubric](https://nickmccarty.me/intensive-capstone-checklist-and-rubric)
-* [From Data to Viz](https://www.data-to-viz.com/)
-* [How to ask a good question](https://codeblog.jonskeet.uk/2012/11/24/stack-overflow-question-checklist/)
-* [Schedule a Capstone Connect!](https://calendly.com/nick-mccarty/capstone-connect)
-
 ## Recently-Added Lecture Material
 
-[Cloud Services](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/cloud_services.ipynb) 🆕
+[Linear Regression](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Linear%20Regression) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Linear%20Regression" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+## Intensive Material
+
+[Cloud Services](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/cloud_services.ipynb)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/cloud_services.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-[Intro to Big Data](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/big_data_intro.ipynb) 🆕
+[Intro to Big Data](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/big_data_intro.ipynb)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/big_data_intro.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
@@ -86,14 +86,14 @@
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-## Recently-Added Supplemental Material
+<!-- ## Recently-Added Supplemental Material
 
-[Spark Machine Learning](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_machine_learning.ipynb) 🆕
+[Spark Machine Learning](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_machine_learning.ipynb) 
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_machine_learning.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-[Spark Programming](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_programming.ipynb) 🆕
+[Spark Programming](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_programming.ipynb)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_programming.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
@@ -136,4 +136,4 @@
 [Python Data Manipulation](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/python_data_manipulation.ipynb)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/python_data_manipulation.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
-</a>
+</a> -->
