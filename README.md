@@ -9,8 +9,13 @@
 
 ## Recently-Added Lecture Material
 
-[Linear Regression](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Linear%20Regression) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Linear%20Regression" target = "_parent">
+[Decision Trees](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Decision%20Trees) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Decision%20Trees" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[Linear Regression](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/Linear%20Regression)
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/Linear%20Regression" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
