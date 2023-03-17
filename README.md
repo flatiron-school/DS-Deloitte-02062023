@@ -19,6 +19,13 @@
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
+## Recently-Added Supplemental Material
+
+[Interpreting Regression Analyses](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Interpretingn%20Regression%20Analyses) 🆕 
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Interpretingn%20Regression%20Analyses" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
 ## Intensive Material
 
 [Cloud Services](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/cloud_services.ipynb)
@@ -91,9 +98,7 @@
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-<!-- ## Recently-Added Supplemental Material
-
-[Spark Machine Learning](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_machine_learning.ipynb) 
+<!-- [Spark Machine Learning](https://github.com/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_machine_learning.ipynb) 
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/spark_machine_learning.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
