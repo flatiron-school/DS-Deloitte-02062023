@@ -9,8 +9,13 @@
 
 ## Recently-Added Lecture Material
 
-[Logistic Regression](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Logistic%20Regression) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Logistic%20Regression" target = "_parent">
+[PCA](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/PCA) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/PCA" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[Logistic Regression](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/Logistic%20Regression)
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/Logistic%20Regression" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
