@@ -41,8 +41,8 @@
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-[Column Transformer Walkthrough](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Column%20Transformer%20Walkthrough) 🆕 
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Column%20Transformer%20Walkthrough" target = "_parent">
+[Column Transformer Walkthrough](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Column%20Transformer%20Walkthrough/Utilizing_Column_Transformer.ipynb) 🆕 
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Column%20Transformer%20Walkthrough/Utilizing_Column_Transformer.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
