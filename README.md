@@ -9,8 +9,13 @@
 
 ## Recently-Added Lecture Material
 
-[PCA](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/PCA) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/PCA" target = "_parent">
+[Classification Metrics](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Classification%20Metrics) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Classification%20Metrics" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[PCA](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/PCA)
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/PCA" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -31,7 +36,17 @@
 
 ## Recently-Added Supplemental Material
 
-[Interpreting Regression Analyses](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Interpreting%20Regression%20Analyses) 🆕 
+[Pipelines](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Pipelines) 🆕 
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Pipelines" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[Column Transformer Walkthrough](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Column%20Transformer%20Walkthrough) 🆕 
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Column%20Transformer%20Walkthrough" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[Interpreting Regression Analyses](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Interpreting%20Regression%20Analyses)  
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Interpreting%20Regression%20Analyses" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
