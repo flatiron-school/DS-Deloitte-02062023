@@ -9,8 +9,13 @@
 
 ## Recently-Added Lecture Material
 
-[Classification Metrics](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Classification%20Metrics) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Classification%20Metrics" target = "_parent">
+[Classification Metrics](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Architecting%20Pipelines%20on%20AWS) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Architecting%20Pipelines%20on%20AWS" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[Classification Metrics](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/Classification%20Metrics)
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/Classification%20Metrics" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
@@ -36,12 +41,12 @@
 
 ## Recently-Added Supplemental Material
 
-[Pipelines](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Pipelines) 🆕 
+[Pipelines](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Pipelines)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Pipelines" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-[Column Transformer Walkthrough](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Column%20Transformer%20Walkthrough/Utilizing_Column_Transformer.ipynb) 🆕 
+[Column Transformer Walkthrough](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/supplemental/Column%20Transformer%20Walkthrough/Utilizing_Column_Transformer.ipynb)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/supplemental/Column%20Transformer%20Walkthrough/Utilizing_Column_Transformer.ipynb" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
