@@ -161,14 +161,14 @@ Additionaly, you'll need to copy and paste the following into the `Application L
 
 `s3://health-violations-script/health_violations.py`
 
-## Terminate Cluster
-
-Be sure to terminate your cluster by selecting your cluster in the console interface and clicking the `Terminate` button!
-
-<img src = "images/terminate-cluster.png" width = "70%" />
-
 ## Inspect Results
 
 Assuming that your cluster ran successfully, you'll be able to access a `csv` file beginning with `part-` from the `restaurant_violation_results` folder in the S3 bucket you created for this tutorial:
 
 <img src = "images/results.png" width = "30%" />
+
+## Terminate Cluster
+
+Be sure to terminate your cluster by selecting your cluster in the console interface and clicking the `Terminate` button!
+
+<img src = "images/terminate-cluster.png" width = "70%" />
