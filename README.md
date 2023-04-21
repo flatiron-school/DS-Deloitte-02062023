@@ -9,6 +9,11 @@
 
 ## Recently-Added Lecture Material
 
+[Spark and MapReduce on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Spark%20and%20MapReduce%20on%20AWS) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Spark%20and%20MapReduce%20on%20AWS" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
 [Architecting Pipelines on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Architecting%20Pipelines%20on%20AWS) 🆕
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Architecting%20Pipelines%20on%20AWS" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
