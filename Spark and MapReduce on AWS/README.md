@@ -155,7 +155,11 @@ Finally, you'll add a step by clicking the `Steps` tab at the top of your cluste
 
 **Note:** *Copy the `data_source` and `output_uri` (provided below) and paste them in as `Arguments`:*
 
-`--data_source s3://DOC-EXAMPLE-BUCKET/food_establishment_data.csv`<br>`--output_uri s3://DOC-EXAMPLE-BUCKET/myOutputFolder`					
+`--data_source s3://DOC-EXAMPLE-BUCKET/food_establishment_data.csv`<br>`--output_uri s3://DOC-EXAMPLE-BUCKET/myOutputFolder`
+
+Additionaly, you'll need to copy and paste the following into the `Application Location` field:
+
+`s3://health-violations-script/health_violations.py`
 
 ## Terminate Cluster
 
