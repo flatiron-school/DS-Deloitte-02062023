@@ -124,7 +124,7 @@ Now we must create an S3 bucket, into which you'll upload the data source and [p
 
 <img src = "images/s3-buckets.png" width = "70%" />
 
-Using the `Upload` button in the interface, the `csv` and `.py` files are added to the bucket called `health-violations-script`, whereas the `logs` and `restaurant_violation_results` folders are automatically added as an artifact of the EMR cluster running our script in the cloud:
+Using the `Upload` button in the interface, the `csv` and `.py` files are added to the bucket called `health-violations-script`, whereas the `logs` folder is automatically added as an artifact of the EMR cluster running our script in the cloud:
 
 <img src = "images/s3-bucket.png" width = "70%" />
 
