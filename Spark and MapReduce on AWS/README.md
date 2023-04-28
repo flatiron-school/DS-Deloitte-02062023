@@ -163,7 +163,7 @@ Additionaly, you'll need to copy and paste the following into the `Application L
 
 ## Inspect Results
 
-Assuming that your cluster ran successfully, you'll be able to access a `csv` file beginning with `part-` from the `restaurant_violation_results` folder in the S3 bucket you created for this tutorial:
+Assuming that your cluster ran successfully, you'll be able to access a `csv` file beginning with `part-` from the `myOutputFolder` folder in the S3 bucket you created for this tutorial:
 
 <img src = "images/results.png" width = "30%" />
 
