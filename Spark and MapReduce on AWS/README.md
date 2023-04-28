@@ -155,7 +155,7 @@ Finally, you'll add a step by clicking the `Steps` tab at the top of your cluste
 
 **Note:** *Copy the `data_source` and `output_uri` (provided below) and paste them in as `Arguments`:*
 
-`--data_source s3://DOC-EXAMPLE-BUCKET/food_establishment_data.csv`<br>`--output_uri s3://DOC-EXAMPLE-BUCKET/myOutputFolder`
+`--data_source s3://health-violations-script/food_establishment_data.csv`<br>`--output_uri s3://health-violations-script/myOutputFolder`
 
 Additionaly, you'll need to copy and paste the following into the `Application Location` field:
 
