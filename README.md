@@ -9,13 +9,18 @@
 
 ## Recently-Added Lecture Material
 
-[Spark and MapReduce on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Spark%20and%20MapReduce%20on%20AWS) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Spark%20and%20MapReduce%20on%20AWS" target = "_parent">
+[AB Testing ML Models on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/AB%20Testing%20ML%20Models%20on%20AWS) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/AB%20Testing%20ML%20Models%20on%20AWS" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-[Architecting Pipelines on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Architecting%20Pipelines%20on%20AWS) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Architecting%20Pipelines%20on%20AWS" target = "_parent">
+[Spark and MapReduce on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/Spark%20and%20MapReduce%20on%20AWS)
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/Spark%20and%20MapReduce%20on%20AWS" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[Architecting Pipelines on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/Architecting%20Pipelines%20on%20AWS)
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/Architecting%20Pipelines%20on%20AWS" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
