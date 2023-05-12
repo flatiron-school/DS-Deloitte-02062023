@@ -9,8 +9,13 @@
 
 ## Recently-Added Lecture Material
 
-[AB Testing ML Models on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/AB%20Testing%20ML%20Models%20on%20AWS) 🆕
-<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/AB%20Testing%20ML%20Models%20on%20AWS" target = "_parent">
+[Neural Networks](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/Neural%20Networks) 🆕
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/tree/main/Neural%20Networks" target = "_parent">
+   <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
+</a>
+
+[AB Testing ML Models on AWS](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/AB%20Testing%20ML%20Models%20on%20AWS)
+<a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived/AB%20Testing%20ML%20Models%20on%20AWS" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
