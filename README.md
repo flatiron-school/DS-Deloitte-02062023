@@ -14,7 +14,7 @@
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
 
-[Neural Networks](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archivedNeural%20Networks)
+[Neural Networks](https://github.com/flatiron-school/DS-Deloitte-02062023/tree/main/archived/Neural%20Networks)
 <a href="https://nbviewer.org/github/flatiron-school/DS-Deloitte-02062023/blob/main/archived//Neural%20Networks" target = "_parent">
    <img align="left" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png" width="109" height="20">
 </a>
